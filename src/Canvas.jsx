@@ -151,7 +151,7 @@ const DrawCanvas = ({ onImageReady }) => {
     //Send DataURL to Backend
     try {
       const response = await axios.post(
-        "https://notesolver-backend.onrender.com/analyze",
+        "https://ai-draw-backend-7xtw.onrender.com/analyze",
         {
           dataURL,
         }
