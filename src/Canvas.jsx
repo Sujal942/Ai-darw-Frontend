@@ -1,5 +1,5 @@
 import "./Canvas.css";
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
 import { Navbar, Nav, Container } from "react-bootstrap"; // Import Navbar components
