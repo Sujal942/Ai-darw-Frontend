@@ -6,7 +6,7 @@ const Footer = () => {
 
       {/* Section: Text */}
       <section className="mb-4">
-        <p>Designed & Developed by SS</p>
+        <p>Designed & Developed by Sujal and Sneha</p>
       </section>
 
       {/* Copyright */}
