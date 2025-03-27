@@ -187,17 +187,17 @@ const DrawCanvas = ({ onImageReady }) => {
           >
             {/* Logo image */}
             <img
-              src="/NoteSolver.png"
-              alt="NoteSolver Logo"
+              src="/AiDraw.png"
+              alt="Ai Draw Logo"
               style={{
-                width: "30px",
-                height: "30px",
+                width: "50px",
+                height: "50px",
                 borderRadius: "50%",
                 marginRight: "1px",
                 padding: "3px",
               }}
             />
-            Ai Solver
+            <span>Ai Draw</span>
           </Navbar.Brand>
 
           <Nav className="ms-0 navbar-responsive">
